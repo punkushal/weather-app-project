@@ -39,7 +39,7 @@ class _HelpPageState extends State<HelpPage> {
       body: Container(
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('assets/images/frame.png'),
+            image: AssetImage('assets/frame.png'),
             fit: BoxFit.contain,
           ),
         ),
